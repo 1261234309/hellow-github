@@ -1,0 +1,13 @@
+.:
+backup/
+docs/
+notes/
+
+./backup:
+
+./docs:
+readme.txt
+
+./notes:
+file_list.txt
+todo_done.txt
